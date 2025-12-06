@@ -1,0 +1,5 @@
+kafka-python==2.0.2
+pyflink==1.19.0
+ollama==0.3.3
+pandas==2.2.3
+tqdm==4.66.5
